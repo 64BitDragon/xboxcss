@@ -9,7 +9,7 @@
 }
 
 .custom.disconnected {
-    background: url(xbox-assets-old/bg-disconnect.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/bg-disconnect.png);
 }
 
 .custom.disconnected div {
@@ -26,7 +26,7 @@
 .custom .trigger {
     width: 33px;
     height: 76px;
-    background: url(xbox-assets-old/trigger.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/trigger.png);
     opacity: 0;
 }
 
@@ -114,7 +114,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(xbox-assets-old/arrow.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/arrow.png);
     width: 34px;
     height: 29px;
 }
@@ -172,24 +172,24 @@
 }
 
 .custom .a {
-    background: url(xbox-assets-old/a.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/a.png);
     top: 108px;
     left: 55px;
 }
 
 .custom .b {
-    background: url(xbox-assets-old/b.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/b.png);
     top: 54px;
     right: 0px;
 }
 
 .custom .x {
-    background: url(xbox-assets-old/x.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/x.png);
     top: 54px;
 }
 
 .custom .y {
-    background: url(xbox-assets-old/y.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/y.png);
     left: 54px;
 }
 
@@ -203,7 +203,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(xbox-assets-old/stick.png);
+    background: url(https://gamepadviewer.com/xbox-assets-old/stick.png);
     height: 86px;
     width: 86px;
 }
